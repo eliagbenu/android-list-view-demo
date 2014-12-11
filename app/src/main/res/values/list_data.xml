@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="singers">
+        <item>Michael Bolton</item>
+        <item>Lil Kim</item>
+        <item>Lonely Island</item>
+        <item>Ludacris</item>
+        <item>Katy Perry</item>
+        <item>Avalon</item>
+        <item>Casting Crowns</item>
+        <item>Shym</item>
+        <item>Stromae</item>
+        <item>50 cent</item>
+        <item>Jason Derulo</item>
+        <item>Jay-Z</item>
+        <item>Abba</item>
+        <item>Celine Dion</item>
+        <item>David Archuleta</item>
+        <item>Cee lo Green</item>
+        <item>Barenaked Ladies</item>
+        <item>Chamillionaire</item>
+        <item>Fergie</item>
+        <item>Keith Urban</item>
+        <item>Kenny Chesney</item>
+        <item>Taylor Swift</item>
+        <item>Kenny Rogers</item>
+        <item>Tim McGraw</item>
+        <item>Jason Aldean</item>
+        <item>Michael Bolton</item>
+    </string-array>
+</resources>
